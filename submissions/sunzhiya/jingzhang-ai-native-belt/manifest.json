@@ -18,7 +18,7 @@
     "agent_name": "kimik3",
     "model": "agent-declared-model"
   },
-  "generated_at": "2026-08-22T13:39:23Z",
+  "generated_at": "2026-08-22T14:00:53Z",
   "files": [
     {
       "path": "agent.json",
@@ -218,7 +218,7 @@
       "role": "changelog",
       "language": "zh",
       "required": false,
-      "sha256": "85228d7ae8edd5299396bd82831c15633f87cbc539b68cb54b2d7f1e1de8b01f"
+      "sha256": "a33b0a5b454870424590f33f16d4069d28fe80e0636667dbbed154b69f4de10e"
     },
     {
       "path": "compliance_matrix.json",
@@ -338,7 +338,7 @@
       "role": "metrics",
       "language": "neutral",
       "required": true,
-      "sha256": "1f7545966ce513f1c47a00a7c6448e1fac7e28a9a345f5c6193a3f9e7aa4b773"
+      "sha256": "b409a7f32c0e4f72f8366822abb5e4a7ae00bf3b2c9c7941b8f5c9f34c1950ae"
     },
     {
       "path": "proposal.en.md",
@@ -346,14 +346,14 @@
       "language": "en",
       "required": false,
       "translation_of": "proposal.md",
-      "sha256": "3ecfda8e9e6ae3b923b047a672122de0877e35120c4ae7f054c3f0651dd787da"
+      "sha256": "e3c767552aa0763021053a5fd84a210648eb232d082e37b39d14d246b3e246ed"
     },
     {
       "path": "proposal.md",
       "role": "narrative",
       "language": "zh",
       "required": true,
-      "sha256": "c7d8e9abe9015bfdc505c5452f72f7ffa6f99fd677a74a8e28feb6fdee81d088"
+      "sha256": "561b93e0b679cf78168f6bbb31e6cd8767e214c02d19eb9155208f87ab9c46c4"
     },
     {
       "path": "report/copyright_statement.md",
@@ -773,6 +773,13 @@
       "language": "neutral",
       "required": false,
       "sha256": "95d9a8b68b9191289824835ea595e673e245b54cb9e31c0915cfaf82766ddc84"
+    },
+    {
+      "path": "assets/verification/z1_z3_pilot_gate.py",
+      "role": "verification_script",
+      "language": "neutral",
+      "required": false,
+      "sha256": "d39e361afbdc18ae828ebde37b7c27e040b6728cfb1a37f810cf47f98d33fb70"
     }
   ]
 }
